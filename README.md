@@ -1,4 +1,4 @@
-# Greg Scott, Homework 1 - Code Refractor
+# Code Refractor
 
 ## Project Description
 In this code refractory project, I took an existing code and refractored it to meet accessiblity standards.
